@@ -1,0 +1,7 @@
+In JavaScript, `setTimeout` and `setInterval` are functions used for scheduling the execution of code at specific intervals. They allow you to delay the execution of a function or repeatedly execute a function after a given time period. Here's an explanation of each:
+
+1. setTimeout:
+The `setTimeout` function is used to schedule the execution of a function after a specified delay. It takes two arguments: a callback function and a delay time in milliseconds. The callback function is the code that you want to execute after the delay.
+
+2. setInterval:
+The `setInterval` function is used to repeatedly execute a function at a specified interval. It also takes two arguments: a callback function and a delay time in milliseconds. The callback function is the code that you want to execute repeatedly.
