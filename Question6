@@ -1,0 +1,4 @@
+Promises are useful when you have to handle more than one asynchronous task, one after another. For that, we use promise chaining. You can perform an operation after a promise is resolved using methods then() , catch() and finally() .
+1.then(): The .then() method is used to handle the fulfilled state of a promise. It takes one or two callback functions as arguments: the first function handles the fulfillment result, and the second function (optional) handles any errors encountered.
+2.catch(): The .catch() method is used to handle the rejected state of a promise. It takes a callback function that handles errors encountered during the asynchronous operation.
+3.finally(): The .finally() method is used to execute code regardless of the promise's state, whether fulfilled or rejected. It takes a callback function that is called when the promise settles, i.e., after either fulfillment or rejection.
