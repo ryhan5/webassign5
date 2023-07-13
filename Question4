@@ -1,0 +1,1 @@
+In JavaScript, there are two common ways to work with asynchronous operations: then/catch method chaining and async/await . Both methods can be used to handle promises, which are objects that represent the eventual completion (or failure) of an asynchronous operation.
