@@ -1,0 +1,1 @@
+To define an asynchronous function using async and await in JavaScript, you simply need to prefix the function declaration with the async keyword. This indicates that the function will contain asynchronous code and will implicitly return a promise.
