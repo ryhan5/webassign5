@@ -1,0 +1,1 @@
+fetch is a built-in JavaScript function that is used to make HTTP requests to a server and retrieve resources or data. It provides a modern and flexible way to perform network requests in web applications. The fetch function returns a promise that resolves to the response from the server.
